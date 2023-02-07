@@ -1,0 +1,5 @@
+my:
+    greeting: Welcome to Spring Cloud
+    appName: Config Client 1
+    list:
+        values: springboot, springcloud, springframework

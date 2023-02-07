@@ -1,0 +1,16 @@
+{
+    "name": "application",
+    "profiles": ["default"],
+    "label": null,
+    "version": "11e3852500721bb2626d6b3732a6e7dc5d0b3b54",
+    "state": null,
+    "propertySources": [
+        {
+            "name": "C:\\Users\\Hp\\Desktop\\Spring Boot\\Spring Boot Cloud\\project\\configrepo/application.yml",
+            "source": {
+                "my.greeting": "Welcome to Spring Cloud",
+                "my.list.values": "springboot, springcloud, springframework"
+            }
+        }
+    ]
+}
